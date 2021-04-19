@@ -1,5 +1,14 @@
-### Hi there 👋
+### Olá 👋
 
+Meu nome é Victor Silva. Sou formado em Bacharelado em Ciência e Técnologia e Engenharia de Telecomunicações pela UFRN.
+
+### Contatos e redes
+
+Você pode me contatar por [e-mail](vctrslv23@gmail.com) ou no [linkedin](https://www.linkedin.com/in/victordcsilva/). Please feel free to contact me in english. Meu Currículo Latter está [aqui](http://lattes.cnpq.br/8592432181617890)
+
+### Skills
+
+Gosto de programar em Pyhton e Matlab, tenho conhecimento básico de C++, C# e ns3. Estou me aventurando com CSS3, HTML5 e JavaScript
 <!--
 **victordcsilva/victordcsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
