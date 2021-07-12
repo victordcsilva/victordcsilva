@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá
 
 Meu nome é Victor Silva. Sou formado em Bacharelado em Ciência e Técnologia e Engenharia de Telecomunicações pela UFRN.
 
